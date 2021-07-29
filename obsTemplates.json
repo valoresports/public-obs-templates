@@ -2,7 +2,7 @@
   "obsTemplates": [
     {
       "id": "357889b0-17a8-4571-8260-fe127db782f0",
-      "content-type": "EWORKOUT",
+      "valorContentType": "EWORKOUT",
       "md5": "3b81010b9e178bf3c8633a86ef03974b",
       "date": "28 July 2021",
       "name": "2021.07-EWORKOUT_SCENES"
